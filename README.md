@@ -2,5 +2,5 @@
 
 This branch contains only the compiled GitHub Pages build.
 
-Source commit: ae7c061
+Source commit: 99252b3
 Public demo path: https://Nurygus.github.io/three-screen-space-meshes/
