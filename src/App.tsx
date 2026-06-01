@@ -269,10 +269,10 @@ function App() {
 
   return (
     <main className="app-shell">
-      <div ref={stageRef} className="stage" aria-label="Liquid Lens demo viewport" />
+      <div ref={stageRef} className="stage" aria-label="Three Screen Space Meshes demo viewport" />
 
       <header className="status-overlay">
-        <strong>Liquid Lens</strong>
+        <strong>Three Screen Space Meshes</strong>
         <span>{stats.backend}</span>
         <span>{stats.fps} fps</span>
         <span>{zMaxLabel(settings)}</span>

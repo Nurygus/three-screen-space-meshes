@@ -1,4 +1,4 @@
-# Liquid Lens
+# Three Screen Space Meshes Demo
 
 Interactive TypeScript demo for screen-space particle meshing.
 
